@@ -1,0 +1,76 @@
+body {
+	max-width: 1200px;
+	margin: auto;
+}
+
+
+
+.tg  {
+	width: 100%;
+	border-collapse: collapse;
+	border-spacing:0;
+	margin:0px auto;}
+
+
+/*.tg td{
+	width: 25%;
+	border-color:black;
+	border-style:solid;
+	border-width:1px;
+	font-family:Arial, sans-serif;
+	font-size:14px;
+	overflow:hidden;
+	padding:10px 5px;
+	word-break:normal;
+}*/
+
+
+.tg th
+{border-color:black;
+	border-style:solid;
+	border-width:1px;
+	font-family:Arial, sans-serif;
+	font-size:14px;
+  font-weight:normal;
+  overflow:hidden;
+  padding:10px 5px;
+  word-break:normal;
+}
+
+.tg-0lax{
+	width: 25%;
+	border-color:black;
+	border-style:solid;
+	border-width:1px;
+	font-family:Arial, sans-serif;
+	font-size:11px;
+    font-weight: bold;
+	overflow:hidden;
+	padding:10px 5px;
+	word-break:normal;
+	text-align:center;
+	vertical-align:center;
+}
+
+.tg-02ax {
+	width: 25%;
+	border-color:black;
+	border-style:solid;
+	border-width:1px;
+	text-align:center;
+	vertical-align:center;
+	color: white;
+	background-color: black;
+	font-family:Arial, sans-serif;
+	font-size:12px;
+ 	font-weight:normal;
+ 	overflow:hidden;
+	padding:10px 5px;
+	word-break:normal;
+
+}
+
+.knawl {
+	color:red;
+	text-align: center;
+}
